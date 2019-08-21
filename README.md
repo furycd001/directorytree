@@ -1,7 +1,5 @@
 # Directory Tree  
-A startpage in the form of a directory tree....
-
-## A startpage that is based on a directory tree.
+ A startpage that is based on a directory tree.
 
 >Startpage
 
